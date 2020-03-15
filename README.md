@@ -1,2 +1,0 @@
-# codeSandBoxTweet
-Created with CodeSandbox
